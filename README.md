@@ -1,2 +1,2 @@
-# RFM segment analysis 
-rfm analysis in python
+# RFM segment analysis and customer behaviour
+##About the Project
