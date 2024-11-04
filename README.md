@@ -1,2 +1,4 @@
-# RFM segment analysis and customer behaviour;
-##About the Project;
+# RFM segment analysis and customer behaviour
+## About Project
+Ahoj
+### Source
